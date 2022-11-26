@@ -10,4 +10,4 @@
 
 ## Контакты
 
-E-mail: [taranova_n@mail.ru](mailto: taranova_n@mail.ru)
+E-mail: [taranova_n@mail.ru](mailto:taranova_n@mail.ru)
